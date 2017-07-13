@@ -1,0 +1,31 @@
+#2.1# 10 "23. Janneke" 0 %0011111100000100 1                                                                                   
+/config "1 Janneke" 50 WH
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24 240
+/gate OFF GATE -60.0 3.0 0  100  258 0
+/gate/filter OFF 3.0 990.9
+/dyn OFF COMP PEAK LOG -14.5 2.5 3 5.00 17 10.0  89 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq OFF
+/eq/1 PEQ 124.7 +0.00 2.0
+/eq/2 PEQ 778.1 +4.75 0.7
+/eq/3 PEQ 1k97 +0.00 2.0
+/eq/4 HShv 10k02 +0.00 2.0
+/mix ON  -4.0 OFF +0 OFF   -oo
+/mix/01 OFF   -oo +0 PRE
+/mix/02 OFF   -oo
+/mix/03 OFF   -oo +0 PRE
+/mix/04 OFF   -oo
+/mix/05 OFF   -oo +0 PRE
+/mix/06 OFF   -oo
+/mix/07 OFF   -oo +0 POST
+/mix/08 OFF   -oo
+/mix/09 OFF   0.0 +0 IN/LC
+/mix/10 ON   0.0
+/mix/11 OFF   -oo +0 IN/LC
+/mix/12 OFF   -oo
+/mix/13 ON   -oo +0 IN/LC
+/mix/14 ON   -oo
+/mix/15 ON   -oo +0 POST
+/mix/16 ON   -oo
+/headamp/022 +36.0 OFF

@@ -1,0 +1,31 @@
+#2.1# "Koor snp" 1 -4194304 0 0 1                                                                                              
+/headamp/017 +28.0 OFF
+/ch/23/preamp +6.3 OFF ON 24 240
+/ch/23/delay OFF   0.3
+/headamp/018 +32.0 OFF
+/ch/24/preamp +0.0 OFF ON 24 168
+/ch/24/delay OFF   0.3
+/headamp/019 +32.0 OFF
+/ch/25/preamp +0.0 OFF ON 24 240
+/ch/25/delay OFF   0.3
+/headamp/020 +32.0 OFF
+/ch/26/preamp +0.0 OFF ON 24 207
+/ch/26/delay OFF   0.3
+/headamp/021 +32.0 OFF
+/ch/27/preamp +0.0 OFF ON 24 117
+/ch/27/delay OFF   0.3
+/headamp/022 +34.0 OFF
+/ch/28/preamp +0.0 OFF ON 24 117
+/ch/28/delay OFF   0.3
+/headamp/023 +35.0 OFF
+/ch/29/preamp +0.0 OFF ON 24 207
+/ch/29/delay OFF   0.3
+/headamp/024 +34.0 OFF
+/ch/30/preamp +0.0 OFF ON 24 220
+/ch/30/delay OFF   0.3
+/headamp/025 +0.0 OFF
+/ch/31/preamp +0.0 OFF ON 24 220
+/ch/31/delay OFF   0.3
+/headamp/026 +0.0 OFF
+/ch/32/preamp +0.0 OFF ON 24 117
+/ch/32/delay OFF   0.3

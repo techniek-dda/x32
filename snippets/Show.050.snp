@@ -1,0 +1,26 @@
+#2.1# "Multitrack" 8388608 0 0 0 1                                                                                             
+/config/routing/IN/1-8 A1-8
+/config/routing/IN/9-16 A9-16
+/config/routing/IN/17-24 AN17-24
+/config/routing/IN/25-32 A25-32
+/config/routing/IN/AUX AUX1-4
+/config/routing/AES50A/1-8 OUT1-8
+/config/routing/AES50A/9-16 OUT9-16
+/config/routing/AES50A/17-24 AN17-24
+/config/routing/AES50A/25-32 OUT9-16
+/config/routing/AES50A/33-40 P161-8
+/config/routing/AES50A/41-48 P169-16
+/config/routing/AES50B/1-8 OUT1-8
+/config/routing/AES50B/9-16 OUT9-16
+/config/routing/AES50B/17-24 OUT1-8
+/config/routing/AES50B/25-32 OUT9-16
+/config/routing/AES50B/33-40 P161-8
+/config/routing/AES50B/41-48 P169-16
+/config/routing/CARD/1-8 AN1-8
+/config/routing/CARD/9-16 AN9-16
+/config/routing/CARD/17-24 AN17-24
+/config/routing/CARD/25-32 AN25-32
+/config/routing/OUT/1-4 OUT1-4
+/config/routing/OUT/5-8 OUT5-8
+/config/routing/OUT/9-12 OUT9-12
+/config/routing/OUT/13-16 OUT13-16

@@ -1,0 +1,18 @@
+#2.1# 77 "Astrid" 0 %0011000000110000 1                                                                                        
+/config "Mon5 inear1" 63 RD
+/dyn ON COMP PEAK LOG -12.0 100 1 0.00 0  100  504 POST 0 100 OFF
+/dyn/filter ON 2.0 805.4
+/eq ON
+/eq/1 LCut 148.3 -7.00 2.0
+/eq/2 PEQ 216.8 +1.50 0.7
+/eq/3 PEQ 632.5 -2.00 0.7
+/eq/4 PEQ 1k44 +0.50 1.4
+/eq/5 PEQ 1k02 +0.00 1.3
+/eq/6 PEQ 12k76 -5.00 0.4
+/mix ON  -6.6 OFF +0 OFF   -oo
+/mix/01 ON   -oo +0 POST
+/mix/02 ON   -oo
+/mix/03 ON   -oo +0 POST
+/mix/04 ON   -oo
+/mix/05 ON   -oo +0 POST
+/mix/06 ON   -oo

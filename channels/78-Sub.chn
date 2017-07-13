@@ -1,0 +1,18 @@
+#2.1# 79 "Sub" 0 %0011000000110000 1                                                                                           
+/config "Subwoofers" 67 RDi
+/dyn ON COMP RMS LIN -60.0 1.3 3 2.00 2 10.0  49 POST 100 OFF
+/dyn/filter ON LC12 25.5
+/eq ON
+/eq/1 HCut 79.6 +0.00 2.0
+/eq/2 PEQ 23.0 +1.00 1.0
+/eq/3 PEQ 25.5 -1.00 1.4
+/eq/4 PEQ 74.3 -3.75 1.1
+/eq/5 PEQ 5k02 +0.00 2.0
+/eq/6 LR24 76.9 +0.00 2.0
+/mix ON   -oo
+/mix/01 ON   -oo +0 POST
+/mix/02 ON   -oo
+/mix/03 ON   -oo +0 POST
+/mix/04 ON   -oo
+/mix/05 ON   -oo +0 POST
+/mix/06 ON   -oo

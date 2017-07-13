@@ -1,0 +1,31 @@
+#2.1# 12 "Overheads" 0 %0011111100110110 1                                                                                     
+/config "Drum R" 2 GN
+/delay ON   3.0
+/preamp +0.0 OFF ON 24 207
+/gate OFF GATE -80.0 60.0 1  502  983 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP RMS LOG -30.0 1.5 5 0.00 10 10.0  151 POST 0 100 ON
+/dyn/filter ON HC6 5k38
+/eq ON
+/eq/1 PEQ 351.6 +0.00 2.0
+/eq/2 PEQ 496.6 +0.00 2.0
+/eq/3 PEQ 5k02 +2.00 2.0
+/eq/4 PEQ 10k02 +4.75 4.1
+/mix ON  -6.1 ON +0 ON -12.0
+/mix/01 ON   -oo -100 <-EQ
+/mix/02 ON   -oo
+/mix/03 ON -29.0 -100 <-EQ
+/mix/04 ON   -oo
+/mix/05 ON   -oo -100 <-EQ
+/mix/06 ON   -oo
+/mix/07 ON   -oo +0 POST
+/mix/08 ON   -oo
+/mix/09 ON   -oo +0 IN/LC
+/mix/10 ON   -oo
+/mix/11 ON   -oo +0 IN/LC
+/mix/12 ON   -oo
+/mix/13 ON   -oo +0 POST
+/mix/14 ON   -oo
+/mix/15 ON  -9.0 +0 POST
+/mix/16 ON -24.0
+/headamp/001 +9.0 OFF

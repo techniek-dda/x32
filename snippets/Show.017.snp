@@ -1,0 +1,45 @@
+#2.1# "60" 123904 0 -268370176 16384 1                                                                                         
+/fx/1 D/RV
+/fx/1/source MIX13 MIX14
+/fx/1/par 13 3/4 7k6 40.0 40 +0 26 0.26 52 5k6 89 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/2 VRM
+/fx/2/source MIX13 MIX14
+/fx/2/par 96 1.94 24 30 22 0.0 1.10 0.69 89 10k4 28 34 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/3 VREV
+/fx/3/source MIX15 MIX15
+/fx/3/par 48 3.0 100 OFF REAR 0.0 76 11k9 1.00 0.70 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/4 DRV2
+/fx/4/source MIX16 MIX16
+/fx/4/par 50 20 20 0.0 100 6k9 0.0 197 0.0 3k0 50 20 20 0.0 100 6k9 0.0 197 0.0 3k0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fxrtn/01/mix/13 OFF   -oo +0 POST
+/fxrtn/01/mix/14 OFF   -oo
+/fxrtn/01/mix/15 OFF   -oo +0 POST
+/fxrtn/01/mix/16 OFF   -oo
+/fxrtn/02/mix/13 OFF   -oo +0 POST
+/fxrtn/02/mix/14 OFF   -oo
+/fxrtn/02/mix/15 OFF   -oo +0 POST
+/fxrtn/02/mix/16 OFF   -oo
+/fxrtn/03/mix/13 OFF   -oo +0 POST
+/fxrtn/03/mix/14 OFF   -oo
+/fxrtn/03/mix/15 OFF   -oo +0 POST
+/fxrtn/03/mix/16 OFF   -oo
+/fxrtn/04/mix/13 OFF   -oo +0 POST
+/fxrtn/04/mix/14 OFF   -oo
+/fxrtn/04/mix/15 OFF   -oo +0 POST
+/fxrtn/04/mix/16 OFF   -oo
+/fxrtn/05/mix/13 ON   -oo +0 POST
+/fxrtn/05/mix/14 ON   -oo
+/fxrtn/05/mix/15 ON   -oo +0 POST
+/fxrtn/05/mix/16 ON   -oo
+/fxrtn/06/mix/13 ON   -oo +0 POST
+/fxrtn/06/mix/14 ON   -oo
+/fxrtn/06/mix/15 ON   -oo +0 POST
+/fxrtn/06/mix/16 ON   -oo
+/fxrtn/07/mix/13 ON   -oo +0 POST
+/fxrtn/07/mix/14 ON   -oo
+/fxrtn/07/mix/15 ON   -oo +0 POST
+/fxrtn/07/mix/16 ON   -oo
+/fxrtn/08/mix/13 ON   -oo +0 POST
+/fxrtn/08/mix/14 ON   -oo
+/fxrtn/08/mix/15 ON   -oo +0 POST
+/fxrtn/08/mix/16 ON   -oo

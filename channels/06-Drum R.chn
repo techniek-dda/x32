@@ -1,0 +1,31 @@
+#2.1# 7 "Drum R" 0 %0011111100110110 1                                                                                         
+/config "Drum R" 2 GN
+/delay ON   3.0
+/preamp +0.0 OFF ON 24 400
+/gate OFF GATE -26.5 6.0 0  796 1051 0
+/gate/filter ON 3.0 5k02
+/dyn ON COMP RMS LOG -33.0 3.0 5 0.00 10 20.0  258 POST 0 100 OFF
+/dyn/filter OFF LC12 3k31
+/eq ON
+/eq/1 PEQ 351.6 +0.00 2.0
+/eq/2 PEQ 496.6 +0.00 2.0
+/eq/3 PEQ 1k02 +2.00 1.0
+/eq/4 PEQ 10k02 +2.00 6.1
+/mix ON  -3.1 ON +0 ON   -oo
+/mix/01 ON  -7.0 -100 <-EQ
+/mix/02 ON  -8.3
+/mix/03 ON   -oo -100 <-EQ
+/mix/04 ON  -2.3
+/mix/05 ON   -oo -100 <-EQ
+/mix/06 ON   -oo
+/mix/07 OFF   0.0 +0 POST
+/mix/08 ON   -oo
+/mix/09 ON   -oo +0 IN/LC
+/mix/10 ON   -oo
+/mix/11 ON   -oo +0 IN/LC
+/mix/12 ON   -oo
+/mix/13 ON   -oo +0 POST
+/mix/14 ON   -oo
+/mix/15 ON  -9.0 +0 POST
+/mix/16 ON -24.0
+/headamp/033 +10.0 OFF

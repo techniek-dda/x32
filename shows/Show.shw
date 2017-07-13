@@ -1,0 +1,43 @@
+#2.1#
+show "Show" 0 0 0 0 0 0 0 0 0 0 "3.07"
+cue/000 100 "Algemene Scene" 0 1 90 0 1 0 0
+cue/001 200 "S" 0 -1 2 0 1 0 0
+cue/002 300 "Multitrack" 0 -1 -1 0 1 0 0
+scene/000 "Allround Scene" "Aad&Jamila" %000000000 1
+scene/001 "Allround Scene" "Update kev 26-04" %000000000 1
+scene/002 "Koor" "Kevin" %000000000 1
+scene/003 "Allround Scene" "Update kev 26-04" %000000000 1
+scene/020 "Allround Scene" "Aad&Keoma" %000000000 1
+scene/058 "Allround Scene" "Gain test" %000000000 1
+scene/059 "Allround Scene" "Update kev 26-04" %000000000 1
+scene/060 "Koor" "Keo" %000000000 1
+scene/080 "Allround Scene" "170508 Harvest" %000000000 1
+scene/083 "Allround Scene" "DigiSnake SD16" %000000000 1
+scene/090 "v1" "" %000000000 1
+scene/091 "v2" "" %000000000 1
+scene/092 "v3" "" %000000000 1
+scene/094 "JAM AAD" "" %000000000 1
+scene/095 "Allround Scene" "DigiSnake SD16 v3" %000000000 1
+scene/096 "Allround Scene K" "Hersteld" %000000000 1
+snippet/001 "4.36s (55bpm)" 122880 0 -268370176 16384 1
+snippet/002 "2.06s (60bpm)" 122880 0 -268370176 0 1
+snippet/003 "3.69s (65bpm)" 122880 0 -268370176 0 1
+snippet/004 "3.43s (70bpm)" 122880 0 -268370176 0 1
+snippet/005 "3.19s (75bpm)" 122880 0 -268370176 16384 1
+snippet/006 "3.00s (80bpm)" 122880 0 -268370176 0 1
+snippet/007 "2.82s (85bpm)" 122880 0 -268370176 16384 1
+snippet/008 "2.67s (90bpm)" 122880 0 -268370176 0 1
+snippet/009 "2.53s (95bpm)" 122880 0 -268370176 16384 1
+snippet/010 "2.45s (98bpm)" 123904 0 -268370176 16384 1
+snippet/011 "2.40s (100bpm)" 122880 0 -268370176 0 1
+snippet/012 "2.17s (110bpm)" 122880 0 -268370176 0 1
+snippet/013 "2.06s (115bpm)" 122880 0 -268370176 16384 1
+snippet/014 "60" 122880 0 -268370176 16384 1
+snippet/015 "1.90s (125bpm)" 122880 0 -268370176 16384 1
+snippet/016 "60" 123904 0 -268370176 16384 1
+snippet/017 "60" 123904 0 -268370176 16384 1
+snippet/018 "60" 123904 0 -268370176 16384 1
+snippet/019 "60" 123904 0 -268370176 16384 1
+snippet/020 "60" 123904 0 -268370176 16384 1
+snippet/050 "Multitrack" 8388608 0 0 0 1
+snippet/071 "Koor snp" 1 -4194304 0 0 1

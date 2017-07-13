@@ -1,0 +1,31 @@
+#2.1# 14 "27. Pricilla" 0 %0011111100010100 1                                                                                  
+/config "5 Priscilla" 50 WHi
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24 184
+/gate OFF GATE -60.0 3.0 1  100  258 0
+/gate/filter OFF 3.0 990.9
+/dyn OFF COMP PEAK LOG -18.0 2.5 2 4.00 63 10.0  89 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 195.4 +0.00 2.1
+/eq/2 PEQ 514.1 +2.50 1.1
+/eq/3 PEQ 2k34 -2.50 2.2
+/eq/4 PEQ 9k03 -1.50 1.0
+/mix ON  -4.0 OFF +0 OFF   -oo
+/mix/01 OFF   -oo +0 PRE
+/mix/02 OFF   -oo
+/mix/03 OFF   -oo +0 PRE
+/mix/04 OFF   -oo
+/mix/05 OFF   -oo +0 PRE
+/mix/06 OFF   -oo
+/mix/07 OFF   -oo +0 POST
+/mix/08 OFF   -oo
+/mix/09 OFF   0.0 +0 IN/LC
+/mix/10 OFF   -oo
+/mix/11 ON   0.0 +0 IN/LC
+/mix/12 OFF   -oo
+/mix/13 ON   -oo +0 IN/LC
+/mix/14 ON   -oo
+/mix/15 ON   -oo +0 POST
+/mix/16 ON   -oo
+/headamp/060 +0.0 OFF
