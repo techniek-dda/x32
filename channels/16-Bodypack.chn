@@ -1,0 +1,31 @@
+#2.1# 17 "Bodypack" 0 %0011111100010100 1                                                                                      
+/config "Bodypack" 74 WH
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24 173
+/gate OFF GATE -40.0 4.0 20 0.10  198 0
+/gate/filter ON 3.0 611.0
+/dyn OFF COMP RMS LIN -45.0 2.5 5 5.00 20  126  504 POST 0 100 OFF
+/dyn/filter ON LC12 2k51
+/eq ON
+/eq/1 PEQ 306.2 -3.25 1.0
+/eq/2 PEQ 317.0 +0.00 0.4
+/eq/3 PEQ 496.6 -2.00 2.2
+/eq/4 HShv 4k22 -6.50 0.3
+/mix ON  -1.2 ON +0 OFF   -oo
+/mix/01 ON -16.0 +0 <-EQ
+/mix/02 ON -15.0
+/mix/03 ON -15.0 +0 <-EQ
+/mix/04 ON -16.0
+/mix/05 ON   -oo +0 <-EQ
+/mix/06 ON   -oo
+/mix/07 OFF   0.0 +0 POST
+/mix/08 ON   -oo
+/mix/09 ON   -oo +0 IN/LC
+/mix/10 ON   -oo
+/mix/11 ON   -oo +0 IN/LC
+/mix/12 ON   -oo
+/mix/13 OFF   -oo +0 POST
+/mix/14 OFF   -oo
+/mix/15 OFF   -oo +0 POST
+/mix/16 OFF   -oo
+/headamp/016 +17.0 OFF
